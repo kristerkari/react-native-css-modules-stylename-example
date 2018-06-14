@@ -13,7 +13,7 @@ This is an example app that shows how you can use the `styleName` syntax in Reac
 
 This app takes [Tape Recorder](https://codepen.io/scottohara/pen/qobKB) codepen by [Scott O'Hara](https://codepen.io/scottohara/) and ports it to React Native. You can try to run in both the browser and React Native.
 
-To see code examples, have a look at [TapeRecorder.css](src/TapeRecorder.css) and [TapeRecorder.js](src/TapeRecorder.js) inside src folder.
+To see code examples, have a look at [TapeRecorder.css](src/TapeRecorder.css) and [TapeRecorder.js](src/TapeRecorder.js#L153) inside src folder.
 
 ## Example App features
 
