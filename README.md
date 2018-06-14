@@ -5,6 +5,8 @@
 
 This is an example app that shows how you can use the `styleName` syntax in React Native.
 
+**Quick links:** **[Features](#example-app-features)** • **[Try it](#try-it)** • **[Documentation](https://github.com/kristerkari/react-native-css-modules#documentation)**
+
 ---
 
 <img src="screenshots/demo.gif" width="600">
@@ -12,8 +14,6 @@ This is an example app that shows how you can use the `styleName` syntax in Reac
 This app is a port of [Tape Recorder](https://codepen.io/scottohara/pen/qobKB) codepen by [Scott O'Hara](https://codepen.io/scottohara/). You can try to run in first in the browser and then see how it works in React Native.
 
 To see code examples, have a look at [TapeRecorder.css](src/TapeRecorder.css) and [TapeRecorder.js](src/TapeRecorder.js) inside src folder.
-
-**Quick links:** **[Features](#example-app-features)** • **[Try it](#try-it)** • **[Documentation](https://github.com/kristerkari/react-native-css-modules#documentation)**
 
 ## Example App features
 
