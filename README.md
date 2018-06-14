@@ -1,6 +1,6 @@
 # React Native CSS modules with styleName syntax
 
-![Platform - Android (Buggy), iOS and Web](<https://img.shields.io/badge/platform-Android%20(Buggy)%20%7C%20iOS%20%7C%20Web-blue.svg>)
+![Platform - iOS, Web and Android (Buggy)](<https://img.shields.io/badge/platform-iOS%20%7C%20Web%20%7C%20Android%20(Buggy)-blue.svg>)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 This is an example app that shows how you can use the `styleName` syntax in React Native.
@@ -11,7 +11,7 @@ This is an example app that shows how you can use the `styleName` syntax in Reac
 
 <img src="screenshots/demo.gif" width="600">
 
-This app is a port of [Tape Recorder](https://codepen.io/scottohara/pen/qobKB) codepen by [Scott O'Hara](https://codepen.io/scottohara/). You can try to run in first in the browser and then see how it works in React Native.
+This app takes [Tape Recorder](https://codepen.io/scottohara/pen/qobKB) codepen by [Scott O'Hara](https://codepen.io/scottohara/) and ports it to React Native. You can try to run in first in the browser and then see how it works in React Native.
 
 To see code examples, have a look at [TapeRecorder.css](src/TapeRecorder.css) and [TapeRecorder.js](src/TapeRecorder.js) inside src folder.
 
