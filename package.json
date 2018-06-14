@@ -1,0 +1,76 @@
+{
+  "name": "StyleNameExample",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "lint": "stylelint 'src/**/*.css'",
+    "web": "NODE_ENV=development webpack-dev-server --mode development",
+    "ios": "react-native run-ios",
+    "android": "react-native run-android"
+  },
+  "dependencies": {
+    "react": "16.3.1",
+    "react-art": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-native": "0.55.4",
+    "react-native-web": "^0.8.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.6.2",
+    "babel-core": "^6.26.3",
+    "babel-jest": "23.0.1",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-react-css-modules": "^3.4.2",
+    "babel-plugin-react-native-platform-specific-extensions": "^1.1.0",
+    "babel-plugin-react-native-stylename-to-style": "^0.11.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-react-native": "4.0.0",
+    "css-loader": "^0.28.11",
+    "jest": "23.1.0",
+    "postcss-loader": "^2.1.5",
+    "react-hot-loader": "^4.3.2",
+    "react-native-css-transformer": "^1.2.0",
+    "react-test-renderer": "16.3.1",
+    "style-loader": "^0.21.0",
+    "stylelint": "^9.2.1",
+    "stylelint-config-react-native-css-modules": "^1.4.0",
+    "stylelint-react-native": "^1.1.0",
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.6",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "IE 11",
+    "Android >= 4.4",
+    "iOS >= 8"
+  ],
+  "jest": {
+    "preset": "react-native"
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "stylelint": {
+    "extends": "stylelint-config-react-native-css-modules",
+    "rules": {
+      "declaration-block-no-duplicate-properties": true,
+      "no-duplicate-selectors": true,
+      "no-extra-semicolons": true,
+      "unit-whitelist": [
+        "px",
+        "rem",
+        "deg",
+        "%"
+      ],
+      "no-eol-whitespace": true,
+      "no-missing-end-of-source-newline": true
+    }
+  }
+}

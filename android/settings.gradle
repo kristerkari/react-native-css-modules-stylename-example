@@ -1,0 +1,3 @@
+rootProject.name = 'StyleNameExample'
+
+include ':app'
