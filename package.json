@@ -24,7 +24,7 @@
     "babel-loader": "^7.1.4",
     "babel-plugin-react-css-modules": "^3.4.2",
     "babel-plugin-react-native-platform-specific-extensions": "^1.1.0",
-    "babel-plugin-react-native-stylename-to-style": "^0.12.3",
+    "babel-plugin-react-native-stylename-to-style": "^0.12.4",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-react-native": "4.0.0",

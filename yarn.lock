@@ -1168,11 +1168,11 @@ babel-plugin-react-native-platform-specific-extensions@^1.1.0:
   dependencies:
     "@babel/template" "^7.0.0-beta.37"
 
-babel-plugin-react-native-stylename-to-style@^0.12.3:
-  version "0.12.3"
-  resolved "https://registry.yarnpkg.com/babel-plugin-react-native-stylename-to-style/-/babel-plugin-react-native-stylename-to-style-0.12.3.tgz#f4fcecc0a94616e66dc49574c61cd81c099daff3"
+babel-plugin-react-native-stylename-to-style@^0.12.4:
+  version "0.12.4"
+  resolved "https://registry.yarnpkg.com/babel-plugin-react-native-stylename-to-style/-/babel-plugin-react-native-stylename-to-style-0.12.4.tgz#84e97faeb5599666efca975082a1a3ab9298d91f"
   dependencies:
-    react-native-dynamic-style-processor "^0.10.3"
+    react-native-dynamic-style-processor "^0.20.0"
 
 babel-plugin-react-transform@^3.0.0:
   version "3.0.0"
@@ -6939,9 +6939,9 @@ react-lifecycles-compat@^3.0.4:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
 
-react-native-css-media-query-processor@^0.14.1:
-  version "0.14.1"
-  resolved "https://registry.yarnpkg.com/react-native-css-media-query-processor/-/react-native-css-media-query-processor-0.14.1.tgz#fd8d4b4031cf4e4f4d0b78283d9202b21228bd32"
+react-native-css-media-query-processor@^0.20.0:
+  version "0.20.0"
+  resolved "https://registry.yarnpkg.com/react-native-css-media-query-processor/-/react-native-css-media-query-processor-0.20.0.tgz#99810a3c0c5313d1ec35b93d487a9c7ca973b2eb"
   dependencies:
     deepmerge "^2.1.0"
     micro-memoize "^2.0.1"
@@ -6953,13 +6953,13 @@ react-native-css-transformer@^1.2.1:
     css-to-react-native-transform "^1.6.0"
     semver "^5.5.0"
 
-react-native-dynamic-style-processor@^0.10.3:
-  version "0.10.3"
-  resolved "https://registry.yarnpkg.com/react-native-dynamic-style-processor/-/react-native-dynamic-style-processor-0.10.3.tgz#d81f0a977dc455363eec193858421d38ff895621"
+react-native-dynamic-style-processor@^0.20.0:
+  version "0.20.0"
+  resolved "https://registry.yarnpkg.com/react-native-dynamic-style-processor/-/react-native-dynamic-style-processor-0.20.0.tgz#e6dd8f73579a2d294eae296d5918cfa4feed9e52"
   dependencies:
     css-viewport-units-transform "^0.10.2"
     micro-memoize "^2.0.3"
-    react-native-css-media-query-processor "^0.14.1"
+    react-native-css-media-query-processor "^0.20.0"
 
 react-native-known-styling-properties@^1.0.3:
   version "1.0.3"
