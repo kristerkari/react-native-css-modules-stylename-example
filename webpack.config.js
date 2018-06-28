@@ -49,6 +49,5 @@ module.exports = {
       "react-native": "react-native-web",
     },
     extensions: [".web.js", ".js", ".web.jsx", ".jsx"],
-    mainFields: ["jsnext:main", "browser", "main"],
   },
 };
