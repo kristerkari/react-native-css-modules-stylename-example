@@ -15,7 +15,7 @@
     "react": "16.4.1",
     "react-art": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-native": "0.55.4",
+    "react-native": "0.56.0",
     "react-native-web": "^0.8.6"
   },
   "devDependencies": {
@@ -28,7 +28,7 @@
     "babel-plugin-react-native-stylename-to-style": "^0.12.5",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "babel-preset-react-native": "4.0.0",
+    "babel-preset-react-native": "5.0.2",
     "css-loader": "^0.28.11",
     "jest": "23.3.0",
     "postcss-loader": "^2.1.5",
