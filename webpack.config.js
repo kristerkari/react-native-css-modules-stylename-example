@@ -17,7 +17,7 @@ module.exports = {
         loader: "babel-loader",
         query: {
           babelrc: false,
-          presets: ["babel-preset-env", "react", "react-native"],
+          presets: ["@babel/env", "react", "react-native"],
           plugins: [
             "react-hot-loader/babel",
             ["react-css-modules", { handleMissingStyleName: "ignore" }],
