@@ -1,6 +1,6 @@
 # React Native CSS modules with styleName syntax
 
-![Platform - iOS, Web and Android (Buggy)](<https://img.shields.io/badge/platform-iOS%20%7C%20Web%20%7C%20Android%20(Buggy)-blue.svg>)
+![Platform - Android, iOS and Web](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Web-blue.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 This is an example app that shows how you can use the `styleName` syntax in React Native.
